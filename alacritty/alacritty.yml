@@ -1,0 +1,56 @@
+window:
+  opacity: 0.7
+  padding:
+    x: 10
+    y: 10
+  synamic_padding: true
+
+font:
+  normal:
+    family: mononoki
+
+    style: Regular
+
+  bold:
+    family: mononoki
+
+  italic:
+    family: mononoki
+
+colors:
+  name: Nancy
+  author: ""
+  primary:
+    background: "#010101"
+    foreground: "#ffffff"
+  cursor:
+    text: "#010101"
+    cursor: "#ffffff"
+  normal:
+    black: "#1b1d1e"
+    red: "#ccccc6"
+    green: "#82b414"
+    yellow: "#fd971f"
+    blue: "#4e82aa"
+    magenta: "#33cc33"
+    cyan: "#ff9933"
+    white: "#ccccc6"
+  bright:
+    black: "#505354"
+    red: "#ff5995"
+    green: "#b6e354"
+    yellow: "#feed6c"
+    blue: "#0c73c2"
+    magenta: "#33cc33"
+    cyan: "#ff9933"
+    white: "#f8f8f2"
+#  bright:
+#    black: "#666666"
+#    red: "#f14c4c"
+#    green: "#23d18b"
+#    yellow: "#67642a"
+#    blue: "#3b8eea"
+#    magenta: "#d670d6"
+#    cyan: "#29b8db"
+#    white: "#e5e5e5"
+theme: Nancy

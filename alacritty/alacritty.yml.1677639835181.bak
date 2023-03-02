@@ -1,0 +1,52 @@
+window:
+  opacity: 0.7
+
+font:
+  normal:
+    family: mononoki
+
+    style: Regular
+
+  bold:
+    family: mononoki
+
+  italic:
+    family: mononoki
+
+colors:
+  name: Atelierheath (dark)
+  author: Chris Kempson
+  primary:
+    background: "#1b181b"
+    foreground: "#ab9bab"
+  cursor:
+    text: "#1b181b"
+    cursor: "#ab9bab"
+  normal:
+    black: "#1b181b"
+    red: "#ca402b"
+    green: "#379a37"
+    yellow: "#bb8a35"
+    blue: "#516aec"
+    magenta: "#7b59c0"
+    cyan: "#159393"
+    white: "#ab9bab"
+      #  bright:
+      ## black: "#776977"
+      #red: "#ca402b"
+      #green: "#379a37"
+      #yellow: "#bb8a35"
+      #blue: "#516aec"
+      # magenta: "#7b59c0"
+      #cyan: "#159393"
+      #white: "#f7f3f7"
+#  bright:
+#    black: "#666666"
+#    red: "#f14c4c"
+#    green: "#23d18b"
+#    yellow: "#67642a"
+#    blue: "#3b8eea"
+#    magenta: "#d670d6"
+#    cyan: "#29b8db"
+#    white: "#e5e5e5"
+theme: Atelierheath.dark

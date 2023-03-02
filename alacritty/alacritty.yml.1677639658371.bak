@@ -1,0 +1,52 @@
+window:
+  opacity: 0.7
+
+font:
+  normal:
+    family: mononoki
+
+    style: Regular
+
+  bold:
+    family: mononoki
+
+  italic:
+    family: mononoki
+
+colors:
+  name: Greenscreen (dark)
+  author: Chris Kempson
+  primary:
+    background: "#001100"
+    foreground: "#00bb00"
+  cursor:
+    text: "#001100"
+    cursor: "#00bb00"
+  normal:
+    black: "#001100"
+    red: "#007700"
+    green: "#00bb00"
+    yellow: "#007700"
+    blue: "#009900"
+    magenta: "#00bb00"
+    cyan: "#005500"
+    white: "#00bb00"
+  bright:
+    black: "#007700"
+    red: "#007700"
+    green: "#00bb00"
+    yellow: "#007700"
+    blue: "#009900"
+    magenta: "#00bb00"
+    cyan: "#005500"
+    white: "#00ff00"
+#  bright:
+#    black: "#666666"
+#    red: "#f14c4c"
+#    green: "#23d18b"
+#    yellow: "#67642a"
+#    blue: "#3b8eea"
+#    magenta: "#d670d6"
+#    cyan: "#29b8db"
+#    white: "#e5e5e5"
+theme: Greenscreen.dark
