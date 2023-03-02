@@ -1,6 +1,3 @@
-xrandr --output eDP --off
-lxqt-panel & 
 polybar &
-feh --bg-scale /home/rk/images/cybereye.jpg &
 
 
